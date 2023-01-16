@@ -1,2 +1,2 @@
 # Hashing
-i uploaded all hashing related solutions to questions i practiced.
+this repository contains all hashing related solutions to questions i practiced.
